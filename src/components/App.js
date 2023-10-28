@@ -12,7 +12,7 @@ const App = () => {
 
   return (
     <div>
-      <img src={image} alt="Dog picture loading" />
+      <img src={image} alt="A Random Dog" />
     </div>
   );
 };
